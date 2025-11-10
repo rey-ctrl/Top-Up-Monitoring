@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762565160 source:c:\bahasac\tptpulsa\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
